@@ -4,4 +4,8 @@
 - git add filename
 - git status
 - git commit -m "minor changes"
-- git push 
+- git push
+
+- git diff
+- git branch 
+- git checkout
