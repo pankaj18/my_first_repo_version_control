@@ -9,3 +9,4 @@
 - git diff
 - git branch 
 - git checkout
+- git log
